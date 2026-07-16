@@ -11,7 +11,7 @@ The goal of this lab was to simulate a small enterprise network environment end-
 | Domain Controller | Windows Server 2022 — `Nabin-2022` |
 | Domain | `Nabin.local` |
 | Client OS | Windows (domain-joined) |
-| Hypervisor | VMware / Hyper-V virtual machines |
+| Hypervisor | VMware virtual machines |
 | Core Roles | AD DS, DHCP Server |
 | Management Tools | Server Manager, Active Directory Users and Computers, Group Policy Management Console, Windows Defender Firewall with Advanced Security |
 
